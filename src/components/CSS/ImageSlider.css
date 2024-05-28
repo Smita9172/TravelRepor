@@ -1,0 +1,26 @@
+*{
+    box-sizing: border-box;
+    margin:0;
+    padding: 0px;
+}
+.lbanner{            
+    width: 100%;
+    height: 600px;
+    
+}
+
+.slideImg img{
+    height: 40rem;
+    width: 100%;
+    object-fit:cover;
+    filter: brightness(70%);
+    display: block;
+}
+    
+
+.slideHP{
+    color: #fff;
+    position: absolute;
+    top:80%;
+    left:10%;
+}

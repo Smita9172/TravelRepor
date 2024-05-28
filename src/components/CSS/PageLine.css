@@ -1,0 +1,15 @@
+.Ppage-out{
+    padding: 20px;
+}
+.Ppage{
+    padding: 40px 20px;
+    border:1px solid #000;
+    font-size: 1rem;
+    border-radius: 10px;
+    
+}
+.mukta-semibold {
+    font-family: "Mukta", sans-serif;
+    font-weight: 600;
+    font-style: normal;
+  }

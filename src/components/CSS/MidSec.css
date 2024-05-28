@@ -1,0 +1,57 @@
+
+.placeImg{
+position: relative;
+margin-bottom: 20px;
+}
+.placeImg img{
+    max-width: 100%;
+    filter: brightness(70%);                        
+    height: auto;
+    
+  transition: .5s ease;
+    
+}
+
+.placeImg:hover .Pimg{
+    opacity:0.3
+}
+
+.card_info{
+    position: absolute;
+    top: 40%;
+    color: #fff;
+    padding: 10px;
+}
+.card_info h3{
+    font-size: 26px;
+    text-transform:uppercase ;
+    font-weight: bold;
+}
+.placeImg:hover .card_info h3 {
+    color:#000
+}
+.placeImg:hover .card_info .Parc a{
+    color:#000
+}
+.card_info .Parc a{
+    color:#fff;
+    font-weight: 500;
+}
+.midsec1{
+    background-color:#E2DFD0
+}
+.midpara h4{
+    color: #02787c;
+    
+    font-size: 2rem;
+    font-weight: 600;
+    padding:150px 0 ;
+    text-align: center;
+
+}
+
+
+.placeImg img:nth-child(4){
+background-color: #000;
+border:2px solid red
+}

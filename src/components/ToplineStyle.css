@@ -1,0 +1,35 @@
+
+.skip{
+    color: #fff;
+    text-align: right;
+    background-color: #5885AF;
+    padding: 8px;
+}
+ h2,h6{
+    margin-bottom: 0px;
+}
+.topcolor{
+    background-color:#5885AF;
+}
+.img{
+    width:60px;
+    height: 60px;
+    border-radius: 60%;
+}
+.topline-img{
+    background-color:#00203FFF;
+}
+.site-title{
+    font-size: 4rem;
+    display: inline;
+    letter-spacing: 0.4rem;
+    vertical-align: middle;
+    margin-left: 15px;
+    font-family: "Roboto", sans-serif;
+  font-weight: 300;
+  font-style: normal
+}
+.site-title a{
+    color:#ADEFD1FF;
+    text-decoration: none;
+}
